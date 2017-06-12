@@ -1,0 +1,22 @@
+{
+  "name": "jesusslim/iftttrigger",
+  "description": "trigger the events of ifttt maker",
+  "license": "MIT",
+  "keywords": ["ifttt"],
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "jesusslim",
+      "email": "755808379@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Iftttrigger\\": "Iftttrigger/"
+    }
+  }
+}
